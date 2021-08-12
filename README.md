@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasgalv
 - 👀 Electrical Engineer interested in learning about programming
-- 🌱 I’m currently learning to be a fullstack dev
+- 🌱 I’m currently learning to be a fullstack dev!
 - 💞️ I’m looking to collaborate with great enterprises
 - 📫 How to reach me https://www.linkedin.com/in/lucas-galv%C3%A3o-64178a118/
 
